@@ -15,5 +15,5 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-📕 **Book recomendations**
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://www.amazon.com/Running-Buffaloes-Wetmore-University-Colorado/dp/0762773987/ref=sr_1_1?crid=1FDQRB1A9BPWN&dchild=1&keywords=running+with+the+buffaloes+book&qid=1597290917&sprefix=running+with+the+buff%2Caps%2C399&sr=8-1)
+📕 **Good reads**
+- [Running with the Buffaloes](https://www.amazon.com/Running-Buffaloes-Wetmore-University-Colorado/dp/0762773987/ref=sr_1_1?crid=1FDQRB1A9BPWN&dchild=1&keywords=running+with+the+buffaloes+book&qid=1597290917&sprefix=running+with+the+buff%2Caps%2C399&sr=8-1)
