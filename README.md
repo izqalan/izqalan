@@ -7,8 +7,7 @@
 > This is the place where I opensource for clout
 
 - 🌱 I’m currently learning UE4 with C++
-- 💬 Ping me about anything related to Javascript/C++ or /React/Redux
-- ⚡ Fun fact: I :heart: :running: & Urban planning 🏙
+- 💬 Ping me if you're hiring Javascript/NodeJs/React dev
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
@@ -20,6 +19,6 @@ C      0 secs          ░░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-📕 **Good reads**
-- [Running with the Buffaloes](https://www.amazon.com/Running-Buffaloes-Wetmore-University-Colorado/dp/0762773987/ref=sr_1_1?crid=1FDQRB1A9BPWN&dchild=1&keywords=running+with+the+buffaloes+book&qid=1597290917&sprefix=running+with+the+buff%2Caps%2C399&sr=8-1)
-- [Mozilla: The Greatest Tech Company Left Behind](https://medium.com/young-coder/mozilla-the-greatest-tech-company-left-behind-9e912098a0e1)
+📕 **Active Repository**
+- [Cyberdrop telegram](https://github.com/izqalan/Cyberdrop-Telegram)
+- [Cyberdrop CLI](https://github.com/izqalan/Cyberdrop-cli)
