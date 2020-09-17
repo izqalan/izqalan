@@ -21,5 +21,5 @@ SCSS         14 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 📕 **Active Repository**
-- [Cyberdrop telegram](https://github.com/izqalan/Cyberdrop-Telegram)
+- [Cyberdrop Client](https://github.com/izqalan/cy-client)
 - [Cyberdrop CLI](https://github.com/izqalan/Cyberdrop-cli)
