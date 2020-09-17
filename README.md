@@ -6,8 +6,8 @@
 
 > This is the place where I opensource for clout
 
-- 🌱 I’m currently learning UE4 with C++
 - 💬 Ping me if you're hiring Javascript/NodeJs/React dev
+- Sometimes I write C# .NET and UE4 application
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
