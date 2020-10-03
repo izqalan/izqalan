@@ -16,11 +16,6 @@ Other        2 hrs 8 mins    ███░░░░░░░░░░░░░░
 JSON         1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 ```
 <!--END_SECTION:waka-->
-
-**Active Repository**
-- [Cyberdrop Client](https://github.com/izqalan/cy-client)
-- [Cyberdrop CLI](https://github.com/izqalan/Cyberdrop-cli)
-
 ___
 
 You can find me on:
