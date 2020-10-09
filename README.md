@@ -9,11 +9,11 @@ Ping me if you're hiring Javascript/NodeJs/React dev. Occasionally writes C# .NE
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 54 mins   █████████▒░░░░░░░░░░░░░░░   36.92 % 
-TypeScript   7 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.04 % 
-Dart         2 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-JSON         2 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Other        1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+TypeScript   8 hrs 4 mins    ███████████░░░░░░░░░░░░░░   44.17 % 
+JavaScript   6 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   34.98 % 
+JSON         2 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Other        58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Markdown     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 <!--END_SECTION:waka-->
 ___
