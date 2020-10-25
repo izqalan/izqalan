@@ -9,11 +9,10 @@ Ping me if you're hiring Javascript/NodeJs/React dev. Occasionally writes C# .NE
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Vue.js       6 hrs 5 mins    █████████████░░░░░░░░░░░░   51.77 % 
-JavaScript   2 hrs 34 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.84 % 
-JSON         1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-CSS          1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Markdown     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Vue.js       36 mins         ████████████████░░░░░░░░░   64.44 % 
+JavaScript   14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.96 % 
+CSS          3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 <!--END_SECTION:waka-->
 ___
