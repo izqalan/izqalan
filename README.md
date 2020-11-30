@@ -9,8 +9,7 @@ Ping me if you're hiring Javascript/NodeJs/React dev. Occasionally writes C# .NE
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 54 mins    ████████████████████████▓   98.01 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+JavaScript   1 hr 7 mins     █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 ___
