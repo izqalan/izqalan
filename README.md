@@ -4,8 +4,6 @@
 
 [![Portfolio](https://img.shields.io/badge/web-portfolio-black)](https://izqalan.github.io/?utm_source=github&utm_medium=social&utm_campaign=portfolio)
 
-Ping me if you're hiring Javascript/NodeJs/React dev. Occasionally writes C# .NET and UE4 application.
-
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
