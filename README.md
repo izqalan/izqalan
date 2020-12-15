@@ -7,7 +7,7 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   12 mins         █████████████████████████   99.57 % 
 ```
 <!--END_SECTION:waka-->
 ___
