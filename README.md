@@ -7,10 +7,8 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-XML        6 hrs 23 mins   █████████████████████▒░░░   85.13 % 
-JSON       56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+XML    4 hrs 34 mins   ██████████████████████▒░░   89.51 % 
+JSON   32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 ```
 <!--END_SECTION:waka-->
 ___
