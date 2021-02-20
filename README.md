@@ -7,7 +7,8 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C#      1 hr 15 mins    █████████████████████▓░░░   86.10 % 
+Other   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 % 
 ```
 <!--END_SECTION:waka-->
 ___
