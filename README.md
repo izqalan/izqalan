@@ -7,8 +7,8 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-C#      1 hr 15 mins    █████████████████████▓░░░   86.10 % 
-Other   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+C#      2 hrs 11 mins   ████████████████████░░░░░   80.02 % 
+Other   32 mins         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
 ```
 <!--END_SECTION:waka-->
 ___
