@@ -7,11 +7,7 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Makefile   19 mins         ████████████░░░░░░░░░░░░░   47.50 % 
-NASM       13 mins         ████████▒░░░░░░░░░░░░░░░░   33.44 % 
-Docker     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-INI        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Other      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ___
