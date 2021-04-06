@@ -7,10 +7,9 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 47 mins   ██████████████████████░░░   88.61 % 
-JSON         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Other        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+JavaScript   2 hrs 57 mins   ██████████████████████▒░░   88.93 % 
+Other        16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 <!--END_SECTION:waka-->
 ___
