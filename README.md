@@ -3,6 +3,7 @@
 >This is the place where I opensource for clout
 
 [![Portfolio](https://img.shields.io/badge/web-portfolio-black)](https://izqalan.github.io/?utm_source=github&utm_medium=social&utm_campaign=portfolio)
+[![Blog](https://img.shields.io/badge/dev-blog-15AC59)](https://blog.izqalan.dev/)
 
 **This week I spent my time on**
 <!--START_SECTION:waka-->
