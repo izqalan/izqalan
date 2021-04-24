@@ -8,11 +8,8 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 52 mins    ██████████▓░░░░░░░░░░░░░░   43.28 % 
-C#           1 hr 18 mins    ███████▓░░░░░░░░░░░░░░░░░   30.10 % 
-CSS          28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-TypeScript   27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+JavaScript   1 hr 52 mins    ██████████████████████░░░   88.49 % 
+CSS          14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
 ```
 <!--END_SECTION:waka-->
 ___
