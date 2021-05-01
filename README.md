@@ -8,7 +8,7 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C#      5 mins          ████████████████████████░   96.49 % 
 ```
 <!--END_SECTION:waka-->
 ___
