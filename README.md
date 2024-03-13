@@ -3,6 +3,4 @@ I mostly do web stuff. My codes are my own, It does not reflect my organization.
 
 >This is the place where I opensource for clout
 
-[![Portfolio](https://img.shields.io/badge/web-portfolio-black)](https://izqalan.github.io/?utm_source=github&utm_medium=social&utm_campaign=portfolio)
-[![Blog](https://img.shields.io/badge/dev-blog-15AC59)](https://blog.izqalan.dev/)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-orange)](https://gitlab.com/izqalan)
